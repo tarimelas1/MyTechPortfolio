@@ -1,0 +1,616 @@
+Date,State,Dead,Injured,Total
+31/12/2020,Indiana,1,3,4
+31/12/2020,Oregon,0,4,4
+27/12/2020,United States Virgin Islands,0,4,4
+26/12/2020,Massachusetts,1,5,6
+26/12/2020,Illinois,3,3,6
+26/12/2020,Florida,2,2,4
+26/12/2020,Florida,1,3,4
+25/12/2020,Florida,1,4,5
+25/12/2020,Arkansas,5,0,5
+24/12/2020,Florida,1,4,5
+22/12/2020,Mississippi,5,0,5
+20/12/2020,Kentucky,4,0,4
+20/12/2020,Connecticut,2,2,4
+19/12/2020,Illinois,0,6,6
+18/12/2020,Pennsylvania,0,4,4
+14/12/2020,Missouri,0,4,4
+13/12/2020,West Virginia,4,0,4
+12/12/2020,California,1,3,4
+12/12/2020,New York,1,3,4
+12/12/2020,New York,0,4,4
+12/12/2020,Maryland,1,3,4
+10/12/2020,Georgia,0,4,4
+10/12/2020,Mississippi,0,5,5
+10/12/2020,Louisiana,2,2,4
+8/12/2020,Louisiana,2,3,5
+6/12/2020,Texas,0,6,6
+5/12/2020,California,1,3,4
+5/12/2020,North Carolina,0,6,6
+4/12/2020,Illinois,0,4,4
+1/12/2020,Pennsylvania,1,3,4
+30/11/2020,Alaska,4,0,4
+29/11/2020,Mississippi,0,11,11
+29/11/2020,Tennessee,2,2,4
+28/11/2020,Louisiana,0,4,4
+28/11/2020,South Carolina,1,14,15
+27/11/2020,Georgia,1,5,6
+27/11/2020,Ohio,0,6,6
+26/11/2020,Nevada,1,4,5
+22/11/2020,New Jersey,0,4,4
+22/11/2020,New York,1,6,7
+21/11/2020,Illinois,0,6,6
+21/11/2020,Arizona,1,4,5
+21/11/2020,Nebraska,2,2,4
+20/11/2020,Michigan,3,1,4
+20/11/2020,Wisconsin,0,8,8
+19/11/2020,Florida,1,3,4
+18/11/2020,Texas,3,2,5
+18/11/2020,South Carolina,0,4,4
+17/11/2020,Tennessee,0,4,4
+16/11/2020,Florida,0,4,4
+16/11/2020,Illinois,0,4,4
+16/11/2020,Illinois,0,4,4
+15/11/2020,Louisiana,0,5,5
+15/11/2020,Georgia,2,2,4
+14/11/2020,South Carolina,3,1,4
+14/11/2020,Missouri,0,4,4
+14/11/2020,Ohio,0,4,4
+14/11/2020,California,2,3,5
+12/11/2020,Florida,2,4,6
+12/11/2020,North Carolina,0,6,6
+10/11/2020,Florida,1,7,8
+9/11/2020,Texas,0,4,4
+8/11/2020,Virginia,0,4,4
+8/11/2020,Tennessee,0,8,8
+7/11/2020,Kansas,0,4,4
+7/11/2020,South Carolina,1,3,4
+6/11/2020,Louisiana,2,2,4
+5/11/2020,Ohio,3,1,4
+4/11/2020,Missouri,0,4,4
+3/11/2020,Nevada,4,1,5
+1/11/2020,New Jersey,1,3,4
+1/11/2020,South Carolina,0,6,6
+1/11/2020,North Carolina,1,3,4
+1/11/2020,Indiana,0,4,4
+1/11/2020,Oklahoma,1,3,4
+1/11/2020,New York,2,2,4
+1/11/2020,Arizona,2,2,4
+31/10/2020,California,0,4,4
+31/10/2020,Washington,0,5,5
+31/10/2020,California,0,4,4
+31/10/2020,Maryland,0,7,7
+31/10/2020,Nevada,0,4,4
+30/10/2020,Maryland,1,3,4
+30/10/2020,Illinois,1,3,4
+29/10/2020,Florida,0,4,4
+28/10/2020,New Jersey,1,3,4
+28/10/2020,Virginia,0,4,4
+26/10/2020,Alabama,1,3,4
+25/10/2020,Texas,2,3,5
+25/10/2020,Texas,0,4,4
+25/10/2020,North Carolina,1,3,4
+24/10/2020,Mississippi,2,8,10
+22/10/2020,Florida,1,3,4
+22/10/2020,Massachusetts,0,4,4
+22/10/2020,Maryland,0,4,4
+22/10/2020,Louisiana,0,5,5
+21/10/2020,New York,1,5,6
+21/10/2020,Mississippi,1,3,4
+20/10/2020,Texas,3,1,4
+19/10/2020,Ohio,0,5,5
+19/10/2020,Louisiana,1,3,4
+18/10/2020,Maryland,1,3,4
+18/10/2020,Illinois,1,4,5
+18/10/2020,Tennessee,0,4,4
+17/10/2020,New York,1,5,6
+17/10/2020,South Carolina,0,5,5
+16/10/2020,California,2,4,6
+16/10/2020,Florida,3,1,4
+16/10/2020,Arizona,1,6,7
+16/10/2020,California,1,3,4
+15/10/2020,Maryland,0,7,7
+15/10/2020,Louisiana,2,2,4
+14/10/2020,Pennsylvania,0,4,4
+12/10/2020,South Carolina,2,3,5
+11/10/2020,Georgia,0,4,4
+10/10/2020,Illinois,1,3,4
+10/10/2020,South Carolina,0,8,8
+10/10/2020,Missouri,2,2,4
+8/10/2020,Pennsylvania,1,6,7
+7/10/2020,Alaska,1,4,5
+7/10/2020,New York,1,3,4
+5/10/2020,"Washington, D.C.",0,4,4
+4/10/2020,Indiana,3,4,7
+4/10/2020,Georgia,1,5,6
+3/10/2020,California,1,3,4
+3/10/2020,Tennessee,0,5,5
+2/10/2020,Washington,0,4,4
+2/10/2020,Louisiana,0,4,4
+1/10/2020,Michigan,0,5,5
+30/09/2020,North Carolina,0,4,4
+30/09/2020,Wisconsin,0,7,7
+30/09/2020,Florida,0,4,4
+29/09/2020,Pennsylvania,0,5,5
+29/09/2020,Ohio,2,2,4
+28/09/2020,Michigan,0,6,6
+27/09/2020,Tennessee,0,4,4
+27/09/2020,Ohio,0,4,4
+27/09/2020,California,1,3,4
+26/09/2020,Pennsylvania,0,4,4
+26/09/2020,Alabama,1,3,4
+26/09/2020,Iowa,2,6,8
+26/09/2020,Illinois,0,4,4
+25/09/2020,Pennsylvania,0,4,4
+23/09/2020,Georgia,1,3,4
+23/09/2020,Minnesota,0,5,5
+21/09/2020,Ohio,1,4,5
+20/09/2020,New York,0,4,4
+20/09/2020,Connecticut,1,3,4
+19/09/2020,New York,1,4,5
+19/09/2020,New York,2,14,16
+19/09/2020,Illinois,0,4,4
+19/09/2020,Illinois,0,4,4
+19/09/2020,New Jersey,0,4,4
+19/09/2020,Arkansas,0,5,5
+18/09/2020,Arkansas,0,4,4
+16/09/2020,Pennsylvania,2,3,5
+15/09/2020,California,2,3,5
+15/09/2020,Illinois,0,5,5
+14/09/2020,Louisiana,0,4,4
+14/09/2020,New Jersey,2,6,8
+13/09/2020,Michigan,0,7,7
+13/09/2020,Tennessee,3,3,6
+13/09/2020,Florida,0,4,4
+13/09/2020,Illinois,1,3,4
+12/9/2020,Illinois,2,4,6
+12/9/2020,North Carolina,0,5,5
+11/9/2020,Louisiana,0,5,5
+10/9/2020,Louisiana,3,1,4
+9/9/2020,Missouri,1,3,4
+8/9/2020,Maryland,0,5,5
+7/9/2020,Louisiana,0,4,4
+7/9/2020,New York,0,5,5
+7/9/2020,Indiana,1,4,5
+7/9/2020,California,7,0,7
+7/9/2020,Illinois,1,3,4
+6/9/2020,Illinois,0,4,4
+6/9/2020,Colorado,0,4,4
+6/9/2020,Tennessee,0,4,4
+6/9/2020,Maryland,0,4,4
+6/9/2020,Missouri,0,6,6
+6/9/2020,Missouri,1,3,4
+6/9/2020,Georgia,1,6,7
+6/9/2020,Louisiana,0,5,5
+5/9/2020,Texas,0,4,4
+5/9/2020,Arkansas,0,4,4
+5/9/2020,Maryland,1,3,4
+5/9/2020,Florida,0,6,6
+3/9/2020,Florida,0,4,4
+3/9/2020,Pennsylvania,0,6,6
+3/9/2020,Arkansas,0,4,4
+3/9/2020,Arkansas,1,3,4
+2/9/2020,Pennsylvania,2,2,4
+2/9/2020,Georgia,1,3,4
+2/9/2020,California,0,4,4
+31/08/2020,Florida,0,4,4
+30/08/2020,Texas,2,2,4
+30/08/2020,Kentucky,0,7,7
+30/08/2020,New York,1,4,5
+30/08/2020,Illinois,1,4,5
+30/08/2020,Kentucky,0,5,5
+30/08/2020,Illinois,0,4,4
+29/08/2020,Nevada,2,2,4
+29/08/2020,Illinois,1,5,6
+28/08/2020,Texas,0,5,5
+28/08/2020,Minnesota,0,4,4
+27/08/2020,Oregon,1,3,4
+26/08/2020,Michigan,3,1,4
+26/08/2020,South Carolina,0,4,4
+26/08/2020,Pennsylvania,0,4,4
+25/08/2020,Virginia,0,5,5
+25/08/2020,New York,0,4,4
+24/08/2020,Michigan,0,4,4
+24/08/2020,California,1,3,4
+24/08/2020,Florida,0,4,4
+24/08/2020,Virginia,1,4,5
+23/08/2020,Arkansas,0,7,7
+23/08/2020,New York,1,3,4
+23/08/2020,Tennessee,1,4,5
+23/08/2020,Illinois,0,4,4
+23/08/2020,Illinois,0,4,4
+23/08/2020,Colorado,0,6,6
+22/08/2020,Illinois,1,3,4
+22/08/2020,Alabama,1,3,4
+19/08/2020,Pennsylvania,0,4,4
+19/08/2020,Illinois,0,6,6
+18/08/2020,Pennsylvania,1,4,5
+18/08/2020,New York,0,4,4
+18/08/2020,Illinois,0,4,4
+17/08/2020,Kentucky,2,2,4
+17/08/2020,Ohio,0,5,5
+17/08/2020,New York,0,4,4
+17/08/2020,Texas,3,2,5
+16/08/2020,Texas,0,5,5
+16/08/2020,Ohio,2,9,11
+16/08/2020,Kentucky,1,3,4
+16/08/2020,Colorado,2,5,7
+16/08/2020,Ohio,1,3,4
+16/08/2020,Oklahoma,0,4,4
+15/08/2020,Pennsylvania,0,5,5
+15/08/2020,New York,0,5,5
+15/08/2020,Michigan,4,0,4
+15/08/2020,Connecticut,1,5,6
+15/08/2020,Alabama,2,3,5
+14/08/2020,New York,0,4,4
+12/8/2020,Ohio,1,3,4
+12/8/2020,New Jersey,1,4,5
+11/8/2020,California,0,5,5
+9/8/2020,Colorado,0,10,10
+9/8/2020,Ohio,0,6,6
+9/8/2020,"Washington, D.C.",1,21,22
+9/8/2020,Mississippi,0,4,4
+9/8/2020,Texas,0,4,4
+8/8/2020,Kentucky,1,4,5
+8/8/2020,Pennsylvania,0,6,6
+8/8/2020,Massachusetts,0,5,5
+8/8/2020,Alabama,1,5,6
+8/8/2020,New York,1,3,4
+6/8/2020,California,1,3,4
+5/8/2020,Illinois,0,4,4
+4/8/2020,Wisconsin,0,4,4
+4/8/2020,"Washington, D.C.",0,4,4
+4/8/2020,California,1,4,5
+4/8/2020,Missouri,1,3,4
+4/8/2020,Connecticut,1,5,6
+3/8/2020,New York,0,4,4
+2/8/2020,Pennsylvania,0,4,4
+2/8/2020,New Jersey,0,5,5
+1/8/2020,Illinois,1,4,5
+1/8/2020,Texas,2,3,5
+1/8/2020,Colorado,1,4,5
+1/8/2020,Alabama,0,4,4
+31/07/2020,Pennsylvania,1,3,4
+30/07/2020,Florida,0,5,5
+30/07/2020,Florida,0,5,5
+29/07/2020,Michigan,0,4,4
+29/07/2020,Missouri,3,1,4
+29/07/2020,Ohio,5,0,5
+28/07/2020,Delaware,2,2,4
+28/07/2020,Wisconsin,0,4,4
+27/07/2020,Washington,1,3,4
+27/07/2020,Illinois,1,4,5
+26/07/2020,Arkansas,0,4,4
+26/07/2020,Texas,0,4,4
+26/07/2020,Michigan,1,3,4
+26/07/2020,Colorado,1,3,4
+26/07/2020,Kentucky,1,3,4
+25/07/2020,North Carolina,0,4,4
+25/07/2020,California,0,7,7
+25/07/2020,Michigan,0,6,6
+25/07/2020,Florida,1,3,4
+25/07/2020,Colorado,2,3,5
+25/07/2020,Texas,0,4,4
+24/07/2020,Georgia,2,2,4
+23/07/2020,Virginia,1,3,4
+23/07/2020,Virginia,0,4,4
+23/07/2020,Illinois,2,4,6
+22/07/2020,Michigan,0,4,4
+21/07/2020,Illinois,0,15,15
+20/07/2020,Illinois,0,5,5
+20/07/2020,Virginia,1,4,5
+19/07/2020,Illinois,0,13,13
+19/07/2020,Nebraska,0,8,8
+19/07/2020,Illinois,2,3,5
+19/07/2020,"Washington, D.C.",1,8,9
+19/07/2020,Michigan,0,4,4
+19/07/2020,Michigan,3,1,4
+18/07/2020,Illinois,1,4,5
+17/07/2020,Ohio,0,4,4
+17/07/2020,Florida,0,4,4
+16/07/2020,Tennessee,0,5,5
+15/07/2020,New York,1,5,6
+15/07/2020,Louisiana,1,3,4
+14/07/2020,Missouri,0,5,5
+14/07/2020,North Carolina,0,8,8
+13/07/2020,New York,0,6,6
+13/07/2020,Kentucky,1,3,4
+13/07/2020,Washington,0,6,6
+12/7/2020,Mississippi,2,3,5
+12/7/2020,Louisiana,1,7,8
+12/7/2020,Michigan,0,5,5
+12/7/2020,New York,1,3,4
+12/7/2020,Florida,2,2,4
+12/7/2020,Illinois,1,3,4
+12/7/2020,Illinois,1,4,5
+11/7/2020,New York,0,6,6
+11/7/2020,Delaware,0,5,5
+7/7/2020,New Jersey,4,3,7
+7/7/2020,Virginia,0,5,5
+6/7/2020,Illinois,0,6,6
+5/7/2020,Michigan,2,4,6
+5/7/2020,Texas,0,4,4
+5/7/2020,Illinois,0,4,4
+5/7/2020,Iowa,1,3,4
+5/7/2020,South Carolina,2,8,10
+5/7/2020,New York,0,5,5
+5/7/2020,Arkansas,1,3,4
+5/7/2020,Wisconsin,0,4,4
+5/7/2020,Maryland,0,4,4
+5/7/2020,Georgia,2,12,14
+5/7/2020,Illinois,1,5,6
+5/7/2020,Pennsylvania,0,4,4
+5/7/2020,Missouri,2,3,5
+5/7/2020,Illinois,1,5,6
+5/7/2020,South Carolina,0,5,5
+5/7/2020,Mississippi,0,4,4
+4/7/2020,Maryland,1,3,4
+4/7/2020,Louisiana,0,4,4
+4/7/2020,Georgia,0,5,5
+4/7/2020,Mississippi,1,3,4
+4/7/2020,Illinois,1,3,4
+4/7/2020,Illinois,4,4,8
+4/7/2020,Massachusetts,1,4,5
+3/7/2020,Maryland,0,4,4
+3/7/2020,Alabama,1,3,4
+2/7/2020,California,2,3,5
+2/7/2020,Massachusetts,0,4,4
+2/7/2020,New Jersey,1,4,5
+1/7/2020,California,0,4,4
+30/06/2020,Massachusetts,1,3,4
+30/06/2020,Iowa,0,5,5
+30/06/2020,Georgia,1,4,5
+30/06/2020,Illinois,0,4,4
+30/06/2020,Ohio,0,4,4
+30/06/2020,Arkansas,0,4,4
+29/06/2020,California,0,4,4
+29/06/2020,South Dakota,1,3,4
+28/06/2020,Pennsylvania,2,2,4
+28/06/2020,Alabama,0,7,7
+27/06/2020,California,2,4,6
+27/06/2020,Illinois,0,4,4
+27/06/2020,New York,0,4,4
+27/06/2020,Illinois,1,3,4
+27/06/2020,Arkansas,3,1,4
+26/06/2020,Colorado,0,5,5
+26/06/2020,California,0,4,4
+26/06/2020,Arizona,0,4,4
+25/06/2020,Pennsylvania,0,4,4
+25/06/2020,Connecticut,1,3,4
+24/06/2020,Tennessee,0,4,4
+23/06/2020,Illinois,0,4,4
+23/06/2020,Florida,0,5,5
+22/06/2020,California,0,5,5
+22/06/2020,North Carolina,3,6,9
+22/06/2020,Minnesota,0,4,4
+22/06/2020,Minnesota,0,4,4
+22/06/2020,Illinois,0,5,5
+22/06/2020,Illinois,0,4,4
+22/06/2020,New York,0,5,5
+21/06/2020,New York,0,4,4
+21/06/2020,Texas,0,5,5
+21/06/2020,Wisconsin,1,4,5
+21/06/2020,Alabama,0,4,4
+21/06/2020,Illinois,1,3,4
+21/06/2020,Minnesota,1,11,12
+20/06/2020,New York,0,9,9
+20/06/2020,New York,0,4,4
+20/06/2020,Michigan,0,4,4
+20/06/2020,Michigan,1,3,4
+20/06/2020,North Carolina,2,2,4
+20/06/2020,New Jersey,1,4,5
+20/06/2020,Kansas,0,5,5
+20/06/2020,New York,0,4,4
+20/06/2020,Wisconsin,0,4,4
+18/06/2020,New York,0,7,7
+17/06/2020,Illinois,0,4,4
+16/06/2020,Iowa,2,2,4
+15/06/2020,Illinois,0,4,4
+15/06/2020,Illinois,0,4,4
+14/06/2020,Minnesota,1,6,7
+14/06/2020,Kentucky,1,4,5
+14/06/2020,Louisiana,0,4,4
+14/06/2020,Louisiana,0,5,5
+14/06/2020,Louisiana,1,3,4
+13/06/2020,California,0,5,5
+13/06/2020,Arkansas,0,4,4
+13/06/2020,Missouri,1,5,6
+13/06/2020,New York,1,7,8
+13/06/2020,Georgia,2,5,7
+13/06/2020,Maryland,0,5,5
+13/06/2020,"Washington, D.C.",2,5,7
+12/6/2020,Pennsylvania,0,6,6
+12/6/2020,New York,1,3,4
+12/6/2020,Texas,0,8,8
+11/6/2020,Virginia,0,4,4
+11/6/2020,Louisiana,6,0,6
+11/6/2020,"Washington, D.C.",0,7,7
+11/6/2020,Texas,2,4,6
+10/6/2020,California,1,3,4
+10/6/2020,California,2,5,7
+10/6/2020,Ohio,1,3,4
+9/6/2020,North Carolina,0,5,5
+9/6/2020,California,2,3,5
+9/6/2020,Pennsylvania,1,6,7
+8/6/2020,Tennessee,0,4,4
+8/6/2020,New York,0,4,4
+7/6/2020,Tennessee,0,5,5
+7/6/2020,Illinois,1,3,4
+7/6/2020,Illinois,0,6,6
+7/6/2020,Missouri,2,7,9
+7/6/2020,Arkansas,0,6,6
+6/6/2020,California,1,4,5
+6/6/2020,Ohio,0,4,4
+6/6/2020,Missouri,1,4,5
+5/6/2020,Colorado,0,4,4
+4/6/2020,Alabama,7,0,7
+2/6/2020,Wisconsin,0,5,5
+2/6/2020,Texas,1,3,4
+2/6/2020,Illinois,0,4,4
+1/6/2020,Missouri,0,4,4
+31/05/2020,Michigan,0,6,6
+31/05/2020,Pennsylvania,0,4,4
+31/05/2020,Mississippi,1,5,6
+30/05/2020,Iowa,1,3,4
+30/05/2020,Florida,1,5,6
+30/05/2020,North Carolina,1,5,6
+30/05/2020,Texas,1,4,5
+29/05/2020,Virginia,0,5,5
+28/05/2020,Pennsylvania,1,3,4
+28/05/2020,Tennessee,0,4,4
+28/05/2020,Kentucky,0,7,7
+27/05/2020,Massachusetts,1,4,5
+27/05/2020,Ohio,1,3,4
+27/05/2020,California,0,5,5
+27/05/2020,Pennsylvania,0,4,4
+26/05/2020,Mississippi,0,4,4
+26/05/2020,California,0,5,5
+26/05/2020,Pennsylvania,0,4,4
+26/05/2020,Illinois,2,2,4
+26/05/2020,South Carolina,3,5,8
+25/05/2020,Louisiana,0,6,6
+24/05/2020,Mississippi,1,4,5
+24/05/2020,Missouri,0,4,4
+24/05/2020,Alabama,3,1,4
+24/05/2020,South Carolina,0,4,4
+23/05/2020,"Washington, D.C.",1,3,4
+23/05/2020,Illinois,1,4,5
+23/05/2020,South Carolina,2,5,7
+23/05/2020,North Carolina,0,6,6
+23/05/2020,Michigan,1,3,4
+23/05/2020,Illinois,1,3,4
+23/05/2020,Florida,0,6,6
+23/05/2020,Florida,0,5,5
+23/05/2020,Texas,0,4,4
+22/05/2020,Ohio,1,3,4
+20/05/2020,Texas,2,3,5
+19/05/2020,Illinois,0,5,5
+18/05/2020,California,0,5,5
+17/05/2020,South Carolina,0,4,4
+17/05/2020,Maryland,1,3,4
+17/05/2020,South Carolina,4,1,5
+16/05/2020,Louisiana,0,13,13
+14/05/2020,New Mexico,0,5,5
+13/05/2020,Illinois,1,4,5
+13/05/2020,Kentucky,1,4,5
+11/5/2020,Alabama,0,4,4
+10/5/2020,Texas,0,6,6
+10/5/2020,Louisiana,0,5,5
+10/5/2020,Texas,0,5,5
+9/5/2020,Missouri,0,4,4
+7/5/2020,Maryland,0,4,4
+6/5/2020,Tennessee,2,2,4
+6/5/2020,Georgia,1,3,4
+5/5/2020,Indiana,1,3,4
+3/5/2020,Ohio,0,4,4
+3/5/2020,Florida,0,4,4
+3/5/2020,Illinois,0,5,5
+2/5/2020,Pennsylvania,0,4,4
+29/04/2020,Indiana,0,4,4
+27/04/2020,Wisconsin,5,0,5
+26/04/2020,North Carolina,1,4,5
+26/04/2020,New York,0,4,4
+25/04/2020,Illinois,1,3,4
+25/04/2020,Tennessee,0,7,7
+25/04/2020,Florida,1,4,5
+24/04/2020,Indiana,0,4,4
+24/04/2020,Texas,3,1,4
+18/04/2020,Maryland,2,2,4
+17/04/2020,Massachusetts,1,4,5
+17/04/2020,North Carolina,1,3,4
+15/04/2020,Mississippi,1,3,4
+11/4/2020,California,0,6,6
+10/4/2020,Michigan,0,4,4
+8/4/2020,Michigan,0,4,4
+8/4/2020,Alaska,0,4,4
+8/4/2020,South Carolina,1,3,4
+7/4/2020,Illinois,1,3,4
+5/4/2020,New York,0,4,4
+5/4/2020,South Carolina,1,4,5
+5/4/2020,California,1,3,4
+4/4/2020,Texas,0,4,4
+4/4/2020,Texas,2,2,4
+4/4/2020,Florida,1,4,5
+3/4/2020,Kentucky,0,4,4
+31/03/2020,Georgia,3,1,4
+30/03/2020,Pennsylvania,0,5,5
+29/03/2020,Georgia,0,4,4
+28/03/2020,Maryland,1,3,4
+23/03/2020,Texas,0,4,4
+22/03/2020,South Carolina,0,4,4
+20/03/2020,Virginia,0,4,4
+20/03/2020,Missouri,0,4,4
+18/03/2020,Florida,1,4,5
+17/03/2020,Maryland,0,7,7
+15/03/2020,Missouri,5,2,7
+15/03/2020,North Carolina,7,0,7
+14/03/2020,Michigan,2,2,4
+14/03/2020,New Mexico,1,3,4
+13/03/2020,Louisiana,0,5,5
+13/03/2020,Illinois,0,4,4
+10/3/2020,Pennsylvania,2,2,4
+8/3/2020,California,1,3,4
+8/3/2020,Wisconsin,1,3,4
+8/3/2020,Illinois,0,4,4
+8/3/2020,Maryland,1,5,6
+7/3/2020,Ohio,1,17,18
+7/3/2020,New Mexico,0,4,4
+7/3/2020,Illinois,0,7,7
+6/3/2020,"Washington, D.C.",0,6,6
+4/3/2020,California,1,5,6
+29/02/2020,Missouri,1,4,5
+29/02/2020,Colorado,0,5,5
+26/02/2020,Wisconsin,6,0,6
+25/02/2020,Illinois,1,4,5
+25/02/2020,Louisiana,0,6,6
+23/02/2020,Texas,0,7,7
+23/02/2020,North Carolina,3,1,4
+20/02/2020,Idaho,2,3,5
+20/02/2020,North Carolina,0,4,4
+20/02/2020,Florida,4,0,4
+19/02/2020,Pennsylvania,0,4,4
+17/02/2020,Mississippi,2,2,4
+16/02/2020,Florida,1,4,5
+16/02/2020,Texas,1,3,4
+16/02/2020,Connecticut,1,4,5
+15/02/2020,Louisiana,0,4,4
+15/02/2020,Tennessee,0,7,7
+14/02/2020,Illinois,0,6,6
+10/2/2020,Delaware,1,4,5
+9/2/2020,Texas,0,4,4
+9/2/2020,Ohio,3,2,5
+8/2/2020,Texas,1,3,4
+7/2/2020,Texas,1,3,4
+5/2/2020,Indiana,4,0,4
+3/2/2020,Maine,3,1,4
+3/2/2020,California,1,5,6
+1/2/2020,Mississippi,0,4,4
+1/2/2020,Louisiana,4,0,4
+31/01/2020,California,1,4,5
+31/01/2020,Florida,1,3,4
+31/01/2020,Louisiana,0,4,4
+30/01/2020,California,0,4,4
+27/01/2020,Connecticut,0,4,4
+26/01/2020,New York,3,1,4
+26/01/2020,Missouri,0,5,5
+26/01/2020,North Carolina,0,6,6
+26/01/2020,South Carolina,3,6,9
+24/01/2020,North Carolina,5,0,5
+24/01/2020,Illinois,2,2,4
+22/01/2020,Washington,1,7,8
+19/01/2020,Missouri,2,15,17
+19/01/2020,Texas,2,2,4
+19/01/2020,Tennessee,1,4,5
+19/01/2020,Texas,2,5,7
+17/01/2020,Utah,4,1,5
+16/01/2020,Illinois,0,5,5
+15/01/2020,Iowa,2,2,4
+11/1/2020,Colorado,0,5,5
+8/1/2020,Mississippi,2,2,4
+5/1/2020,Georgia,0,4,4
+4/1/2020,Florida,1,3,4
+2/1/2020,New York,0,4,4
+1/1/2020,Missouri,3,1,4
+1/1/2020,Ohio,0,4,4
+1/1/2020,West Virginia,0,7,7
+1/1/2020,Puerto Rico,4,1,5
